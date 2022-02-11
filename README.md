@@ -1,9 +1,5 @@
-# cf_python
+# cf_instacart_python
 CareerFoundry Python Fundamentals for Data Analysts
-
-# cf-instacart
-This is a demonstration of best practices applied for creating github repository - using the sample project "instacart".
-
 
 
 ## Objective
