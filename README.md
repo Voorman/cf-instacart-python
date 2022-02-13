@@ -29,4 +29,4 @@ The code is available as jupyter notebooks, available under /scripts/.
 
 ## Final report
 
-The final report (Excel): [Final Report]()
+The final report (Excel): [Final Report](https://github.com/Voorman/cf-instacart-python/blob/8f84b75b13a066c79a9f8173747bd62f7a8b2dec/05%20Sent%20to%20client/A4_final_report_IVO.xlsx)
