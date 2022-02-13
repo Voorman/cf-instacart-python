@@ -1,7 +1,6 @@
 # cf-instacart-python
 
-CareerFoundry Python Fundamentals for Data Analysts
-Displays the jupyter notebooks, visualizations that I worked on during my Career Foundry Data Analyst Course using the sample project "instacart".
+Displays the jupyter notebooks and visualizations that I worked on during my Career Foundry Data Analyst Course using the sample project "instacart".
 
 ## Objective
 
@@ -27,3 +26,7 @@ For this project, the following python libraries were used:
 
 ## Executing the code
 The code is available as jupyter notebooks, available under /scripts/.
+
+## Final report
+
+The final report (Excel): [Final Report]()
